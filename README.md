@@ -1,1 +1,1 @@
-my shell readme
+betty readme
